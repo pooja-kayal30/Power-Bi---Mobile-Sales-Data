@@ -60,15 +60,16 @@ Analyzed sales trends over time
 Found high-demand products
 Compared current vs previous performance
 🔷 📈 Key Features
-
 ✔ Interactive dashboard
 ✔ Clean and structured data model
 ✔ DAX-based calculations
 ✔ Business insights generation
+## 📷 Dashboard Preview
+<img width="910" height="506" alt="Mobile salea data pic 2" src="https://github.com/user-attachments/assets/56b9af8e-88b2-45e9-a1ce-6d1feb3859a5" />
+<img width="913" height="510" alt="Mobile salea data pic 3" src="https://github.com/user-attachments/assets/cd4042f2-3d16-4234-8b35-5456b8ec726f" />
 
 🔷 📂 Files Included
 .pbix file (Power BI Dashboard)
 Dataset (Excel/CSV)
 🔷 🎯 Conclusion
-
 This project demonstrates how Power BI can be used to transform raw data into meaningful insights and visually appealing dashboards for business analysis.
